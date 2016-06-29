@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="HelperEditText">
+
+        <attr name="showHelperText" format="boolean"/>
+        <attr name="LineColor" format="reference"/>
+
+        <attr name="helperTextColor" format="reference"/>
+        <attr name="HelpereditTextColor" format="reference"/>
+        <attr name="android:inputType"/>
+
+        <attr name="edittextSize" format="dimension"/>
+        <attr name="helperTextSize" format="dimension"/>
+
+
+    </declare-styleable>
+
+
+</resources>
